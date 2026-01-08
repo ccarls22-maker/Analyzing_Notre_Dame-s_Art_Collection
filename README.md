@@ -1,5 +1,5 @@
 # Analyzing_Notre_Dame-s_Art_Collection
-This Project will explore the art collection at the Raclin Murphy Art Museum (the on campus art museum for the University of Notre Dame) 
+This Project will test the limits of Co-pilot's code generation to explore the art collection at the Raclin Murphy Art Museum (the on-campus art museum for the University of Notre Dame) 
 
 # Introduction & Motivation
 Located on the campus of the University of Notre Dame, the Raclin Murphy Museum of Art houses more than 4,000 works, spanning from antiquity to the present across a wide range of artistic forms. As both a teaching museum and a community resource, the Raclin Murphy Museum of Art supports Notre Dame’s academic mission by making its collections available for research, exhibitions, and educational programming. Beyond gallery displays, the museum digitizes its collections, though not all works are fully cataloged or accessible online, underscoring the need for structured data analysis to reveal patterns and gaps in documentation and acquisition.
@@ -57,6 +57,8 @@ Works Cited
 Accessed 3 Oct. 2025. 
 University of Notre Dame, Hesuburgh Libraries. “Museums, Archives, Rare Books & Libraries 
 Exploration.” MARBLE, marble.nd.edu/. Accessed 3 Oct. 2025. 
+
+
 
 
 
